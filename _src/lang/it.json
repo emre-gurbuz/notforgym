@@ -1,0 +1,82 @@
+{
+  "nav_features": "Funzioni",
+  "nav_support": "Assistenza",
+  "nav_privacy": "Privacy",
+  "footer_privacy": "Informativa sulla privacy",
+  "footer_terms": "Termini di utilizzo",
+
+  "title_index": "NotForGym — Diario di allenamento per iPhone e Apple Watch",
+  "desc_index": "NotForGym è un diario di allenamento veloce e privato per iPhone e Apple Watch. Serie, recupero, record e progressi, senza bisogno di un account.",
+  "title_privacy": "Informativa sulla privacy — NotForGym",
+  "desc_privacy": "Come NotForGym tratta i tuoi dati: nessun account, nessun server, dati sul tuo dispositivo e nel tuo iCloud privato.",
+  "title_support": "Assistenza — NotForGym",
+  "desc_support": "Aiuto e domande frequenti su NotForGym per iPhone e Apple Watch.",
+  "title_terms": "Termini di utilizzo — NotForGym",
+
+  "hero_h1a": "Registra ogni serie.",
+  "hero_h1b": "Guarda ogni progresso.",
+  "hero_lead": "NotForGym è un diario di allenamento veloce ed essenziale per iPhone e Apple Watch. La sessione precedente è accanto a ogni serie, il timer di recupero gira sulla schermata di blocco e i tuoi progressi diventano record e grafici. Niente account, niente registrazione.",
+  "store_soon": "Presto su",
+  "store_live": "Scarica su",
+  "hero_meta": "Gratis · iPhone e Apple Watch · 8 lingue",
+  "hero_alt": "Schermata di allenamento in corso con serie, carichi e ripetizioni",
+
+  "features_h2": "Pensato per il tempo tra una serie e l'altra",
+  "features_p": "Tutto ciò che ti serve in palestra, niente di superfluo.",
+  "features": [
+    ["🏋️", "Registrazione rapida delle serie", "Carico e ripetizioni dell'ultima sessione accanto a ogni serie. Serie di riscaldamento, a cedimento, note e difficoltà con un tocco."],
+    ["⏱️", "Recupero e Attività live", "Il conto alla rovescia del recupero è sulla schermata di blocco e nella Dynamic Island: completa una serie o salta il recupero senza aprire l'app."],
+    ["⌚", "Apple Watch", "Vedi la prossima serie, spuntala e senti un tocco al polso quando il recupero è finito."],
+    ["📈", "Progressi e record", "Grafici del volume settimanale, 1RM stimato, record personali e una ripartizione per gruppi muscolari che ti mostra cosa stai trascurando."],
+    ["📚", "Oltre 250 esercizi", "Una libreria completa con attrezzatura e muscoli coinvolti, più guide passo passo ed errori comuni per gli esercizi più popolari."],
+    ["📏", "Misure corporee", "Tieni traccia di peso e misure nel tempo, con un promemoria settimanale se lo desideri."],
+    ["❤️", "Apple Salute", "Gli allenamenti completati possono essere salvati in Salute e contano per i tuoi anelli Attività."],
+    ["☁️", "Sincronizzazione iCloud", "I tuoi dati si sincronizzano tramite il tuo iCloud privato e tornano quando reinstalli l'app o cambi iPhone."],
+    ["🏅", "Scheda atleta e widget", "Una scheda da condividere con punteggio di progresso, serie di settimane e migliori carichi; disponibile anche come widget per Home e schermata di blocco."],
+    ["✨", "Riepilogo pronto per l'IA", "Crea un prompt dai tuoi dati di allenamento e incollalo nell'assistente IA che usi già."],
+    ["📄", "Importa ed esporta CSV", "I tuoi dati sono tuoi. Esporta tutto come foglio di calcolo quando vuoi, o reimportalo."],
+    ["🌍", "8 lingue", "English, Türkçe, Deutsch, Español, Português (Brasil), Français, Italiano e 日本語."]
+  ],
+
+  "screens_h2": "Uno sguardo da vicino",
+  "captions": ["La tua settimana a colpo d'occhio", "Allenamento in corso", "Progressi", "Scheda atleta", "Guide all'esecuzione", "Cronologia"],
+
+  "pricing_pill": "Prezzo",
+  "pricing_h3": "Gratis. Tutte le funzioni.",
+  "pricing_p": "NotForGym si scarica e si usa gratis, con annunci pubblicitari. Un unico acquisto li rimuove per sempre: nessun abbonamento.",
+  "pricing_checks": ["Mai annunci durante l'allenamento", "Rimuovi gli annunci con un acquisto, ripristinabile su ogni dispositivo", "Nessun account, nessun abbonamento"],
+  "privacy_pill": "Privacy",
+  "privacy_h3": "Il tuo allenamento resta tuo.",
+  "privacy_p": "NotForGym non ha server. I tuoi allenamenti restano sul tuo dispositivo e nel tuo iCloud privato: noi non possiamo vederli.",
+  "privacy_checks": ["Nessuna registrazione, nessuna email", "I dati sulla salute non sono mai usati per la pubblicità", "Elimina tutto con un solo pulsante"],
+  "privacy_link": "Leggi l'informativa sulla privacy →",
+
+  "questions_h2": "Domande?",
+  "questions_p": "Consulta le FAQ o scrivici: leggiamo ogni messaggio.",
+  "questions_btn": "Chiedi assistenza",
+
+  "support_h1": "Assistenza",
+  "contact_h3": "Ti serve aiuto o hai un'idea?",
+  "contact_p": "Scrivici un'email: di solito rispondiamo entro 2 giorni lavorativi. Indicare il modello di iPhone e la versione di iOS ci aiuta; nell'app, Profilo → Invia feedback li compila per te.",
+  "email_fallback": "email di assistenza",
+  "email_btn": "Scrivi all'assistenza",
+  "faq_h2": "Domande frequenti",
+  "faq": [
+    ["Serve un account?", "No. NotForGym funziona senza registrazione. Se hai effettuato l'accesso a iCloud sull'iPhone, i tuoi dati vengono salvati e sincronizzati automaticamente nel tuo iCloud."],
+    ["Come trasferisco i dati su un nuovo iPhone?", "Accedi con lo stesso Account Apple e verifica che iCloud sia attivo per NotForGym (Impostazioni → [il tuo nome] → iCloud). Installa l'app e i tuoi allenamenti tornano in pochi minuti. Puoi anche usare Profilo → Esporta allenamenti (CSV) e importare il file sul nuovo dispositivo."],
+    ["I dati non si sincronizzano tra i dispositivi.", "Controlla che entrambi i dispositivi usino lo stesso Account Apple, che iCloud Drive sia attivo e che ci sia spazio libero su iCloud. Apri l'app su entrambi con la connessione a internet e attendi qualche minuto. Lo stato di iCloud è visibile in Profilo."],
+    ["Come uso NotForGym su Apple Watch?", "Installa l'app per l'orologio dall'app Watch sull'iPhone (Il mio orologio → App disponibili). Avvia un allenamento sull'iPhone; l'orologio mostra la prossima serie, ti permette di completarla e conta il recupero."],
+    ["Come salvo gli allenamenti in Salute?", "In Profilo, attiva “Salva in Salute” e consenti l'accesso. Ogni allenamento completato viene salvato con durata e calorie stimate. NotForGym non legge mai dati da Salute."],
+    ["Il timer di recupero non appare sulla schermata di blocco.", "Verifica che le Attività live siano consentite: Impostazioni → NotForGym → Attività live. Anche le notifiche devono essere attive per l'avviso di fine recupero."],
+    ["Come rimuovo gli annunci?", "Tocca “Rimuovi annunci” nell'app e completa l'acquisto una tantum. Gli annunci spariscono su tutti i dispositivi con lo stesso Account Apple. Non c'è nessun abbonamento."],
+    ["Ho acquistato “Rimuovi annunci” ma vedo ancora annunci.", "Apri la schermata di acquisto e tocca “Ripristina acquisti”, assicurandoti di usare lo stesso Account Apple dell'acquisto."],
+    ["Come ottengo un rimborso?", "Gli acquisti sono gestiti da Apple. Richiedi il rimborso su <a href=\"https://reportaproblem.apple.com\" rel=\"noopener\">reportaproblem.apple.com</a>."],
+    ["Posso cambiare le mie scelte di privacy per gli annunci?", "Sì. Se nella tua area è richiesto il consenso, trovi “Opzioni privacy annunci” in Profilo. Puoi anche gestire il tracciamento in Impostazioni di iOS → Privacy e sicurezza → Tracciamento."],
+    ["Come esporto o elimino i miei dati?", "Profilo → Esporta allenamenti (CSV) salva tutti gli allenamenti come foglio di calcolo. Profilo → “Elimina tutto e ricomincia” cancella definitivamente tutto dal dispositivo e da iCloud. Dettagli nell'<a href=\"privacy.html\">Informativa sulla privacy</a>."],
+    ["Quali dispositivi sono supportati?", "iPhone con iOS 26.2 o successivo e Apple Watch con watchOS 26 o successivo."]
+  ],
+  "health_note": "<strong>Nota sulla salute:</strong> NotForGym è un diario di allenamento, non un dispositivo medico, e non fornisce consigli medici. Consulta un medico prima di iniziare un nuovo programma di esercizio.",
+
+  "nf_text": "Questa pagina non esiste.",
+  "nf_btn": "Torna alla home"
+}

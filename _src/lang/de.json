@@ -1,0 +1,82 @@
+{
+  "nav_features": "Funktionen",
+  "nav_support": "Support",
+  "nav_privacy": "Datenschutz",
+  "footer_privacy": "Datenschutzerklärung",
+  "footer_terms": "Nutzungsbedingungen",
+
+  "title_index": "NotForGym — Trainingstagebuch für iPhone & Apple Watch",
+  "desc_index": "NotForGym ist ein schnelles, privates Trainingstagebuch für iPhone und Apple Watch. Sätze, Pausentimer, Bestleistungen und Fortschritt – ganz ohne Konto.",
+  "title_privacy": "Datenschutzerklärung — NotForGym",
+  "desc_privacy": "So geht NotForGym mit deinen Daten um: kein Konto, keine eigenen Server, Daten auf deinem Gerät und in deiner privaten iCloud.",
+  "title_support": "Support — NotForGym",
+  "desc_support": "Hilfe und häufige Fragen zu NotForGym für iPhone und Apple Watch.",
+  "title_terms": "Nutzungsbedingungen — NotForGym",
+
+  "hero_h1a": "Jeden Satz notieren.",
+  "hero_h1b": "Jeden Fortschritt sehen.",
+  "hero_lead": "NotForGym ist ein schnelles, schnörkelloses Trainingstagebuch für iPhone und Apple Watch. Die Werte vom letzten Mal stehen neben jedem Satz, der Pausentimer läuft auf dem Sperrbildschirm und dein Fortschritt zeigt sich in Rekorden und Diagrammen – ohne Konto, ohne Registrierung.",
+  "store_soon": "Demnächst im",
+  "store_live": "Laden im",
+  "hero_meta": "Kostenlos · iPhone & Apple Watch · 8 Sprachen",
+  "hero_alt": "Live-Training mit Sätzen, Gewichten und Wiederholungen",
+
+  "features_h2": "Gemacht für die Zeit zwischen den Sätzen",
+  "features_p": "Alles, was du im Gym brauchst – und nichts, was du nicht brauchst.",
+  "features": [
+    ["🏋️", "Sätze blitzschnell erfassen", "Gewicht und Wiederholungen vom letzten Training neben jedem Satz. Aufwärmsätze, Sätze bis zum Muskelversagen, Notizen und Schwierigkeit mit einem Tippen."],
+    ["⏱️", "Pausentimer & Live-Aktivität", "Der Pausen-Countdown läuft auf dem Sperrbildschirm und in der Dynamic Island – Satz abhaken oder Pause überspringen, ohne die App zu öffnen."],
+    ["⌚", "Apple Watch", "Sieh deinen nächsten Satz, hake ihn ab und spüre am Handgelenk, wenn die Pause vorbei ist."],
+    ["📈", "Fortschritt & Rekorde", "Wöchentliche Volumen-Diagramme, geschätztes 1RM, persönliche Rekorde und eine Muskelgruppen-Verteilung, die zeigt, was du vernachlässigst."],
+    ["📚", "Über 250 Übungen", "Eine umfangreiche Bibliothek mit Equipment und Zielmuskeln, dazu Schritt-für-Schritt-Anleitungen und häufige Fehler für die beliebtesten Übungen."],
+    ["📏", "Körpermaße", "Verfolge Gewicht und Körpermaße über die Zeit – auf Wunsch mit einer wöchentlichen Erinnerung."],
+    ["❤️", "Apple Health", "Abgeschlossene Trainings können in Apple Health gesichert werden und zählen so für deine Aktivitätsringe."],
+    ["☁️", "iCloud-Synchronisierung", "Deine Daten werden über deine eigene private iCloud synchronisiert und sind nach einer Neuinstallation oder auf einem neuen iPhone wieder da."],
+    ["🏅", "Athletenkarte & Widget", "Eine teilbare Karte mit Fortschrittswert, Serie und Top-Leistungen – auch als Widget für Home- und Sperrbildschirm."],
+    ["✨", "KI-fertige Zusammenfassung", "Erstelle aus deinen Trainingsdaten einen fertigen Prompt und füge ihn in deinen gewohnten KI-Assistenten ein."],
+    ["📄", "CSV-Import & -Export", "Deine Daten gehören dir. Exportiere jederzeit alles als Tabelle oder importiere es wieder."],
+    ["🌍", "8 Sprachen", "English, Türkçe, Deutsch, Español, Português (Brasil), Français, Italiano und 日本語."]
+  ],
+
+  "screens_h2": "Ein genauerer Blick",
+  "captions": ["Deine Woche auf einen Blick", "Live-Training", "Fortschritt", "Athletenkarte", "Ausführungs-Anleitungen", "Verlauf"],
+
+  "pricing_pill": "Preis",
+  "pricing_h3": "Kostenlos. Alle Funktionen.",
+  "pricing_p": "NotForGym kannst du kostenlos laden und nutzen; die App wird durch Werbung finanziert. Ein einmaliger Kauf entfernt die Werbung dauerhaft – kein Abo.",
+  "pricing_checks": ["Niemals Werbung während des Trainings", "Werbung mit einem Kauf entfernen, auf allen Geräten wiederherstellen", "Kein Konto, kein Abo"],
+  "privacy_pill": "Datenschutz",
+  "privacy_h3": "Dein Training bleibt deins.",
+  "privacy_p": "Es gibt keinen NotForGym-Server. Deine Trainings liegen auf deinem Gerät und in deiner privaten iCloud – wir können sie nicht sehen.",
+  "privacy_checks": ["Keine Registrierung, keine E-Mail nötig", "Gesundheitsdaten werden nie für Werbung genutzt", "Alles mit einer Taste löschen"],
+  "privacy_link": "Datenschutzerklärung lesen →",
+
+  "questions_h2": "Fragen?",
+  "questions_p": "Wirf einen Blick in die FAQ oder schreib uns – wir lesen jede Nachricht.",
+  "questions_btn": "Zum Support",
+
+  "support_h1": "Support",
+  "contact_h3": "Brauchst du Hilfe oder hast du eine Idee?",
+  "contact_p": "Schreib uns eine E-Mail – wir antworten meist innerhalb von 2 Werktagen. iPhone-Modell und iOS-Version helfen uns weiter; in der App unter Profil → Feedback senden werden sie automatisch eingetragen.",
+  "email_fallback": "Support-E-Mail",
+  "email_btn": "E-Mail an den Support",
+  "faq_h2": "Häufige Fragen",
+  "faq": [
+    ["Brauche ich ein Konto?", "Nein. NotForGym funktioniert ohne Registrierung. Wenn du auf deinem iPhone bei iCloud angemeldet bist, werden deine Daten automatisch über deine eigene iCloud gesichert und synchronisiert."],
+    ["Wie übertrage ich meine Daten auf ein neues iPhone?", "Melde dich mit demselben Apple Account an und achte darauf, dass iCloud für NotForGym aktiviert ist (Einstellungen → [dein Name] → iCloud). Installiere die App – deine Trainings sind nach wenigen Minuten wieder da. Alternativ: Profil → Trainings exportieren (CSV) und die Datei auf dem neuen Gerät importieren."],
+    ["Meine Daten werden nicht zwischen Geräten synchronisiert.", "Prüfe, ob beide Geräte denselben Apple Account verwenden, iCloud Drive aktiviert ist und genug iCloud-Speicher frei ist. Öffne die App auf beiden Geräten mit Internetverbindung und warte ein paar Minuten. Den iCloud-Status siehst du im Profil."],
+    ["Wie nutze ich NotForGym auf der Apple Watch?", "Installiere die Watch-App über die Watch-App auf deinem iPhone (Meine Watch → Verfügbare Apps). Starte ein Training auf dem iPhone; die Watch zeigt den nächsten Satz, lässt dich ihn abhaken und zählt die Pause herunter."],
+    ["Wie sichere ich Trainings in Apple Health?", "Aktiviere im Profil „In Apple Health sichern“ und erlaube den Zugriff. Jedes abgeschlossene Training wird mit Dauer und geschätzten Kalorien gesichert. NotForGym liest niemals Daten aus Health."],
+    ["Der Pausentimer erscheint nicht auf dem Sperrbildschirm.", "Stelle sicher, dass Live-Aktivitäten erlaubt sind: Einstellungen → NotForGym → Live-Aktivitäten. Für den Hinweis am Ende der Pause sollten auch Mitteilungen aktiviert sein."],
+    ["Wie entferne ich die Werbung?", "Tippe in der App auf „Werbung entfernen“ und schließe den einmaligen Kauf ab. Die Werbung verschwindet auf allen Geräten mit demselben Apple Account. Es gibt kein Abo."],
+    ["Ich habe „Werbung entfernen“ gekauft, sehe aber noch Werbung.", "Öffne den Kaufbildschirm und tippe auf „Käufe wiederherstellen“. Achte darauf, mit dem Apple Account angemeldet zu sein, mit dem du gekauft hast."],
+    ["Wie bekomme ich eine Rückerstattung?", "Käufe werden von Apple abgewickelt. Eine Rückerstattung kannst du unter <a href=\"https://reportaproblem.apple.com\" rel=\"noopener\">reportaproblem.apple.com</a> anfordern."],
+    ["Kann ich meine Werbe-Datenschutzeinstellungen ändern?", "Ja. Wenn in deiner Region eine Einwilligung nötig ist, findest du im Profil „Werbe-Datenschutzoptionen“. Tracking steuerst du außerdem unter iOS-Einstellungen → Datenschutz & Sicherheit → Tracking."],
+    ["Wie exportiere oder lösche ich meine Daten?", "Profil → Trainings exportieren (CSV) speichert alle Trainings als Tabelle. Profil → „Alle Daten löschen und neu beginnen“ löscht alles dauerhaft von deinem Gerät und aus iCloud. Details findest du in der <a href=\"privacy.html\">Datenschutzerklärung</a>."],
+    ["Welche Geräte werden unterstützt?", "iPhone mit iOS 26.2 oder neuer und Apple Watch mit watchOS 26 oder neuer."]
+  ],
+  "health_note": "<strong>Gesundheitshinweis:</strong> NotForGym ist ein Trainingstagebuch, kein Medizinprodukt, und gibt keine medizinischen Ratschläge. Sprich vor Beginn eines neuen Trainingsprogramms mit einer Ärztin oder einem Arzt.",
+
+  "nf_text": "Diese Seite gibt es nicht.",
+  "nf_btn": "Zur Startseite"
+}

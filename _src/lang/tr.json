@@ -1,0 +1,82 @@
+{
+  "nav_features": "Özellikler",
+  "nav_support": "Destek",
+  "nav_privacy": "Gizlilik",
+  "footer_privacy": "Gizlilik Politikası",
+  "footer_terms": "Kullanım Koşulları",
+
+  "title_index": "NotForGym — iPhone ve Apple Watch için Antrenman Takibi",
+  "desc_index": "NotForGym, iPhone ve Apple Watch için hızlı ve gizliliğe saygılı bir antrenman defteri. Setleri, dinlenmeyi, rekorları ve gelişimini takip et; hesap gerekmez.",
+  "title_privacy": "Gizlilik Politikası — NotForGym",
+  "desc_privacy": "NotForGym verilerini nasıl işler: hesap yok, geliştirici sunucusu yok; veriler cihazında ve kendi iCloud alanında.",
+  "title_support": "Destek — NotForGym",
+  "desc_support": "iPhone ve Apple Watch için NotForGym yardım ve sık sorulan sorular.",
+  "title_terms": "Kullanım Koşulları — NotForGym",
+
+  "hero_h1a": "Her seti kaydet.",
+  "hero_h1b": "Her gelişimi gör.",
+  "hero_lead": "NotForGym, iPhone ve Apple Watch için hızlı ve sade bir antrenman defteri. Her setin yanında geçen seferki değerlerin durur, dinlenme sayacı kilit ekranında çalışır, gelişimin rekorlar ve grafiklerle karşına çıkar. Hesap yok, üyelik yok.",
+  "store_soon": "Çok yakında",
+  "store_live": "Hemen indir:",
+  "hero_meta": "Ücretsiz · iPhone ve Apple Watch · 8 dil",
+  "hero_alt": "Setler, ağırlıklar ve tekrarlarla canlı antrenman ekranı",
+
+  "features_h2": "Setler arasındaki o kısa an için yapıldı",
+  "features_p": "Salonda ihtiyacın olan her şey; fazlası değil.",
+  "features": [
+    ["🏋️", "Hızlı set kaydı", "Her setin yanında geçen seferki kilo ve tekrar. Isınma seti, tükeniş seti, not ve zorluk tek dokunuşla."],
+    ["⏱️", "Dinlenme sayacı ve Canlı Etkinlik", "Dinlenme geri sayımı kilit ekranında ve Dynamic Island'da. Uygulamayı açmadan seti tamamla ya da dinlenmeyi atla."],
+    ["⌚", "Apple Watch", "Sıradaki seti gör, saatinden işaretle; dinlenme bitince bileğinde titreşimle haberin olsun."],
+    ["📈", "Gelişim ve rekorlar", "Haftalık hacim grafikleri, tahmini 1RM, kişisel rekorlar ve ihmal ettiğin kas gruplarını gösteren dağılım."],
+    ["📚", "250+ egzersiz", "Ekipman ve hedef kaslarıyla geniş bir kütüphane; en popüler hareketler için adım adım nasıl yapılır rehberi ve sık yapılan hatalar."],
+    ["📏", "Vücut ölçüleri", "Kilonu ve vücut ölçülerini zaman içinde takip et; istersen haftalık hatırlatıcı da kur."],
+    ["❤️", "Apple Sağlık", "Bitirdiğin antrenmanlar Apple Sağlık'a kaydedilebilir; böylece Etkinlik halkalarına işlenir."],
+    ["☁️", "iCloud senkronu", "Verilerin kendi özel iCloud alanın üzerinden senkronize olur; uygulamayı yeniden yüklediğinde ya da yeni iPhone'a geçtiğinde geri gelir."],
+    ["🏅", "Sporcu kartı ve widget", "Gelişim puanın, serin ve en iyi kaldırışlarınla paylaşılabilir bir kart; ana ekran ve kilit ekranı widget'ı olarak da var."],
+    ["✨", "Yapay zekâya hazır özet", "Antrenman verilerinden hazır bir istem (prompt) oluştur, kullandığın yapay zekâ asistanına yapıştır."],
+    ["📄", "CSV içe ve dışa aktarma", "Verilerin senin. İstediğin an tamamını tablo olarak dışa aktar ya da geri yükle."],
+    ["🌍", "8 dil", "English, Türkçe, Deutsch, Español, Português (Brasil), Français, Italiano ve 日本語."]
+  ],
+
+  "screens_h2": "Yakından bakış",
+  "captions": ["Haftan tek bakışta", "Canlı antrenman", "Gelişim", "Sporcu kartı", "Nasıl yapılır rehberi", "Geçmiş"],
+
+  "pricing_pill": "Fiyat",
+  "pricing_h3": "Ücretsiz. Tüm özellikler.",
+  "pricing_p": "NotForGym ücretsiz indirilir ve kullanılır; reklamlarla desteklenir. Tek seferlik bir satın alma ile reklamlar tamamen kalkar — abonelik yok.",
+  "pricing_checks": ["Antrenman sırasında asla reklam yok", "Tek satın almayla reklamsız; tüm cihazlarında geri yükle", "Hesap yok, abonelik yok"],
+  "privacy_pill": "Gizlilik",
+  "privacy_h3": "Antrenmanların sende kalır.",
+  "privacy_p": "NotForGym'in bir sunucusu yok. Antrenmanların cihazında ve kendi özel iCloud alanında durur; biz göremeyiz.",
+  "privacy_checks": ["Kayıt yok, e-posta gerekmez", "Sağlık verileri asla reklam için kullanılmaz", "Tek düğmeyle her şeyi sil"],
+  "privacy_link": "Gizlilik politikasını oku →",
+
+  "questions_h2": "Sorun mu var?",
+  "questions_p": "Sık sorulan sorulara göz at ya da bize yaz; her mesajı okuyoruz.",
+  "questions_btn": "Destek al",
+
+  "support_h1": "Destek",
+  "contact_h3": "Yardım mı lazım, bir fikrin mi var?",
+  "contact_p": "Bize e-posta gönder, genellikle 2 iş günü içinde dönüyoruz. iPhone modelini ve iOS sürümünü yazman işimizi kolaylaştırır; uygulamada Profil → Geri bildirim gönder bunları senin yerine doldurur.",
+  "email_fallback": "destek e-postası",
+  "email_btn": "Destek'e yaz",
+  "faq_h2": "Sık sorulan sorular",
+  "faq": [
+    ["Hesap açmam gerekiyor mu?", "Hayır. NotForGym kayıt olmadan çalışır. iPhone'unda iCloud'a giriş yaptıysan verilerin kendi iCloud alanın üzerinden otomatik olarak yedeklenir ve senkronize edilir."],
+    ["Verilerimi yeni iPhone'a nasıl taşırım?", "Aynı Apple Hesabıyla giriş yap ve NotForGym için iCloud'un açık olduğundan emin ol (Ayarlar → [adın] → iCloud). Uygulamayı yüklediğinde antrenmanların birkaç dakika içinde geri gelir. İstersen Profil → Antrenmanları dışa aktar (CSV) ile dosya alıp yeni cihazda içe de aktarabilirsin."],
+    ["Verilerim cihazlar arasında senkronize olmuyor.", "İki cihazın da aynı Apple Hesabını kullandığını, iCloud Drive'ın açık olduğunu ve iCloud'da boş alan bulunduğunu kontrol et. Uygulamayı internete bağlıyken iki cihazda da açıp birkaç dakika bekle. iCloud durumu Profil'de görünür."],
+    ["Apple Watch'ta nasıl kullanırım?", "Saat uygulamasını iPhone'daki Watch uygulamasından yükle (Saatim → Kullanılabilir Uygulamalar). Antrenmanı iPhone'da başlat; saat sıradaki seti gösterir, tamamlamanı sağlar ve dinlenmeni geri sayar."],
+    ["Antrenmanları Apple Sağlık'a nasıl kaydederim?", "Profil'de “Apple Sağlık'a kaydet” seçeneğini aç ve izin ver. Bitirdiğin her antrenman süresi ve tahmini kalorisiyle kaydedilir. NotForGym Sağlık'tan hiçbir veri okumaz."],
+    ["Dinlenme sayacı kilit ekranında görünmüyor.", "Canlı Etkinliklere izin verildiğinden emin ol: Ayarlar → NotForGym → Canlı Etkinlikler. Dinlenme bitti uyarısı için bildirimlerin de açık olması gerekir."],
+    ["Reklamları nasıl kaldırırım?", "Uygulamada “Reklamları kaldır”a dokun ve tek seferlik satın almayı tamamla. Aynı Apple Hesabını kullanan tüm cihazlarında reklamlar kalkar. Abonelik yoktur."],
+    ["“Reklamları kaldır”ı satın aldım ama hâlâ reklam görüyorum.", "Satın alma ekranını açıp “Satın alımları geri yükle”ye dokun; satın aldığın Apple Hesabıyla giriş yapmış olduğundan emin ol."],
+    ["Nasıl iade alırım?", "Satın almalar Apple tarafından yönetilir. İade talebini <a href=\"https://reportaproblem.apple.com\" rel=\"noopener\">reportaproblem.apple.com</a> adresinden yapabilirsin."],
+    ["Reklam gizlilik tercihlerimi değiştirebilir miyim?", "Evet. Bölgende onay gerekiyorsa Profil'de “Reklam gizlilik seçenekleri”ni bulursun. İzlemeyi ayrıca iOS Ayarlar → Gizlilik ve Güvenlik → İzleme'den yönetebilirsin."],
+    ["Verilerimi nasıl dışa aktarır veya silerim?", "Profil → Antrenmanları dışa aktar (CSV), tüm antrenmanlarını tablo dosyası olarak kaydeder. Profil → “Tüm verileri sil ve baştan başla” her şeyi cihazından ve iCloud'dan kalıcı olarak siler. Ayrıntılar için <a href=\"privacy.html\">Gizlilik Politikası</a>'na bak."],
+    ["Hangi cihazlar destekleniyor?", "iOS 26.2 veya üstü yüklü iPhone ve watchOS 26 veya üstü yüklü Apple Watch."]
+  ],
+  "health_note": "<strong>Sağlık notu:</strong> NotForGym bir antrenman defteridir; tıbbi cihaz değildir ve tıbbi tavsiye vermez. Yeni bir egzersiz programına başlamadan önce doktoruna danış.",
+
+  "nf_text": "Bu sayfa bulunamadı.",
+  "nf_btn": "Ana sayfa"
+}

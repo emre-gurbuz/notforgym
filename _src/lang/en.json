@@ -1,0 +1,82 @@
+{
+  "nav_features": "Features",
+  "nav_support": "Support",
+  "nav_privacy": "Privacy",
+  "footer_privacy": "Privacy Policy",
+  "footer_terms": "Terms of Use",
+
+  "title_index": "NotForGym — Workout Tracker for iPhone & Apple Watch",
+  "desc_index": "NotForGym is a fast, private workout log for iPhone and Apple Watch. Track sets, rest timers, personal records and progress — no account needed.",
+  "title_privacy": "Privacy Policy — NotForGym",
+  "desc_privacy": "How NotForGym handles your data: no account, no developer servers, data stored on your device and in your private iCloud.",
+  "title_support": "Support — NotForGym",
+  "desc_support": "Help and frequently asked questions for NotForGym on iPhone and Apple Watch.",
+  "title_terms": "Terms of Use — NotForGym",
+
+  "hero_h1a": "Log every set.",
+  "hero_h1b": "See every gain.",
+  "hero_lead": "NotForGym is a fast, no-nonsense workout log for iPhone and Apple Watch. Your last session is right next to every set, rest timers run on your Lock Screen, and your progress shows up as records and charts — no account, no sign-up.",
+  "store_soon": "Coming soon to the",
+  "store_live": "Download on the",
+  "hero_meta": "Free · iPhone & Apple Watch · 8 languages",
+  "hero_alt": "Live workout screen with sets, weights and reps",
+
+  "features_h2": "Built for the time between sets",
+  "features_p": "Everything you need on the gym floor, nothing you don't.",
+  "features": [
+    ["🏋️", "Fast set logging", "Last session's weight and reps next to every set. Warm-up sets, failure sets, notes and difficulty in one tap."],
+    ["⏱️", "Rest timer & Live Activity", "The rest countdown lives on your Lock Screen and in the Dynamic Island — complete a set or skip rest without opening the app."],
+    ["⌚", "Apple Watch", "See your next set, tick it off and get a tap on your wrist when rest is over."],
+    ["📈", "Progress & records", "Weekly volume charts, estimated 1RM, personal records and a muscle-group split that tells you what you've been skipping."],
+    ["📚", "250+ exercises", "A full library with equipment and target muscles, plus step-by-step how-to guides and common mistakes for the most popular lifts."],
+    ["📏", "Body measurements", "Track weight and body measurements over time, with a gentle weekly reminder if you want one."],
+    ["❤️", "Apple Health", "Finished workouts can be saved to Apple Health so they count toward your Activity rings."],
+    ["☁️", "iCloud sync", "Your data syncs through your own private iCloud and comes back when you reinstall or get a new iPhone."],
+    ["🏅", "Athlete card & widget", "A shareable card with your progress score, streak and top lifts — also available as a Home and Lock Screen widget."],
+    ["✨", "AI-ready summary", "Create a ready-made prompt from your training data and paste it into the AI assistant you already use."],
+    ["📄", "CSV import & export", "Your data is yours. Export everything as a spreadsheet anytime, or import it back."],
+    ["🌍", "8 languages", "English, Türkçe, Deutsch, Español, Português (Brasil), Français, Italiano and 日本語."]
+  ],
+
+  "screens_h2": "A closer look",
+  "captions": ["Your week at a glance", "Live workout", "Progress", "Athlete card", "How-to guides", "History"],
+
+  "pricing_pill": "Pricing",
+  "pricing_h3": "Free. Every feature.",
+  "pricing_p": "NotForGym is free to download and use, supported by ads. A single one-time purchase removes ads for good — no subscription.",
+  "pricing_checks": ["Never an ad during your workout", "Remove ads with one purchase, restore it on any device", "No account, no subscription"],
+  "privacy_pill": "Privacy",
+  "privacy_h3": "Your training stays yours.",
+  "privacy_p": "There is no NotForGym server. Your workouts live on your device and in your private iCloud — we can't see them.",
+  "privacy_checks": ["No sign-up, no email required", "Health data is never used for ads", "Delete everything with one button"],
+  "privacy_link": "Read the privacy policy →",
+
+  "questions_h2": "Questions?",
+  "questions_p": "Check the FAQ or write to us — we read every message.",
+  "questions_btn": "Get support",
+
+  "support_h1": "Support",
+  "contact_h3": "Need help or have an idea?",
+  "contact_p": "Email us and we'll get back to you, usually within 2 business days. Including your iPhone model and iOS version helps — or use Profile → Send feedback in the app, which fills that in for you.",
+  "email_fallback": "support email",
+  "email_btn": "Email support",
+  "faq_h2": "Frequently asked questions",
+  "faq": [
+    ["Do I need an account?", "No. NotForGym works without sign-up. If you're signed in to iCloud on your iPhone, your data is backed up and synced automatically through your own iCloud."],
+    ["How do I move my data to a new iPhone?", "Sign in with the same Apple Account and make sure iCloud is on for NotForGym (Settings → [your name] → iCloud). Install the app and your workouts will come back within a few minutes. You can also use Profile → Export workouts (CSV) and import the file on the new device."],
+    ["My data isn't syncing between devices.", "Check that both devices use the same Apple Account, iCloud Drive is turned on, and you have free iCloud storage. Open the app on both devices while connected to the internet and wait a few minutes. The iCloud status is shown in Profile."],
+    ["How do I use NotForGym on Apple Watch?", "Install the watch app from the Watch app on your iPhone (My Watch → Available Apps). Start a workout on your iPhone; the watch shows your next set, lets you complete it and counts down your rest."],
+    ["How do I save workouts to Apple Health?", "Go to Profile, turn on “Save to Apple Health” and allow access. Each finished workout is saved with its duration and estimated calories. NotForGym never reads data from Health."],
+    ["The rest timer doesn't show on my Lock Screen.", "Make sure Live Activities are allowed: Settings → NotForGym → Live Activities. Notifications should also be on for the rest-over alert."],
+    ["How do I remove ads?", "Tap “Remove ads” in the app and complete the one-time purchase. Ads disappear on all your devices using the same Apple Account. There is no subscription."],
+    ["I bought “Remove ads” but I still see ads.", "Open the purchase screen and tap “Restore purchases”, making sure you're signed in to the same Apple Account you bought it with."],
+    ["How do I get a refund?", "Purchases are handled by Apple. Request a refund at <a href=\"https://reportaproblem.apple.com\" rel=\"noopener\">reportaproblem.apple.com</a>."],
+    ["Can I change my ad privacy choices?", "Yes. If your region requires consent, you'll find “Ad privacy options” in Profile. You can also control tracking in iOS Settings → Privacy & Security → Tracking."],
+    ["How do I export or delete my data?", "Profile → Export workouts (CSV) saves all your workouts as a spreadsheet. Profile → “Delete all data and start over” permanently erases everything from your device and iCloud. See the <a href=\"privacy.html\">Privacy Policy</a> for details."],
+    ["Which devices are supported?", "iPhone with iOS 26.2 or later, and Apple Watch with watchOS 26 or later."]
+  ],
+  "health_note": "<strong>Health note:</strong> NotForGym is a training log, not a medical device, and does not give medical advice. Consult a doctor before starting a new exercise program.",
+
+  "nf_text": "This page doesn't exist.",
+  "nf_btn": "Go home"
+}
